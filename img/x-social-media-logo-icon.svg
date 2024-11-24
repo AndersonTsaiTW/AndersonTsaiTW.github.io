@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 32 32" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd">
+    <rect width="32" height="32" rx="7" ry="7"/>
+    <path fill="#fff" fill-rule="nonzero" d="M20.36 9.2h2.27l-4.96 5.67 5.84 7.73h-4.58l-3.59-4.69-4.1 4.69h-2.28l5.31-6.07-5.6-7.32h4.69l3.24 4.28 3.75-4.28zm-0.8 12.38h1.27l-8.21-10.85h-0.8l8.32 10.85z"/>
+</svg>

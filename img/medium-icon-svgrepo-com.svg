@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <g>
+        <path d="M9,0C14,0,18,4,18,9C18,14,14,18,9,18C4,18,0,14,0,9C0,4,4,0,9,0z M23,1C26,1,28,6,28,9C28,12,26,16,23,16C20,16,18,12,18,9C18,6,20,1,23,1z M30,3C32,3,33,9,33,9C33,9,32,15,30,15C28,15,27,9,27,9C27,9,28,3,30,3z" fill="#000000"/>
+    </g>
+</svg>
