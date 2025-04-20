@@ -36,6 +36,9 @@ body {
 
 main {
   line-height: 1.8;
+  max-width: 850px;
+  margin: 0 auto;
+
 }
 
 #aboutmain {
@@ -312,7 +315,7 @@ button:focus,
 
 .grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 30px;
   margin: 0;
@@ -324,10 +327,10 @@ button:focus,
 .grid__item {
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* 确保子元素分布于顶部和底部 */
+  justify-content: space-around; /* 确保子元素分布于顶部和底部 */
   background-color: var(--third-color);
   color: var(--primary-background-color);
-  text-align: center;
+  text-align: left;
   padding: 20px;
   border-radius: 25px;
   border: 2px solid var(--primary-color);
